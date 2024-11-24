@@ -18,10 +18,3 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
-.container {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
